@@ -1,4 +1,3 @@
-delete calculator script
 import streamlit as st
 import matplotlib.pyplot as plt
 
@@ -63,4 +62,3 @@ ax.set_xlabel("Year")
 ax.set_ylabel("Annual Payment ($)")
 ax.set_title("Loan Repayment Over Time")
 st.pyplot(fig)
-delete calculator script
