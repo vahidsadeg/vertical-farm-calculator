@@ -63,3 +63,4 @@ ax.set_xlabel("Year")
 ax.set_ylabel("Annual Payment ($)")
 ax.set_title("Loan Repayment Over Time")
 st.pyplot(fig)
+delete calculator script
